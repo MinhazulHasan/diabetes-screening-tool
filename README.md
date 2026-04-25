@@ -1,15 +1,3 @@
----
-title: Diabetes Risk Screening Tool
-emoji: 🩺
-colorFrom: blue
-colorTo: red
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
-license: mit
----
-
 # Diabetes Prediction
 
 A simple Gradio app that predicts diabetes risk from 8 medical measurements, trained on the Pima Indians Diabetes dataset.
